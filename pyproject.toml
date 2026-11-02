@@ -1,0 +1,25 @@
+[project]
+name = "webscraping"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests (>=2.34.2,<3.0.0)",
+    "pandas (>=3.1.0,<4.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "webscraping", from = "src"}]
+
+[[tool.poetry.source]]
+name = "mirror"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+priority = "primary"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
