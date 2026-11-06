@@ -22,8 +22,27 @@ movies = movies[movies["numVotes"] >= 25000]
 
 movies = movies.sort_values("averageRating", ascending=False)
 
+
 top250 = movies.head(250)
 
-top250.to_csv("data/imdb_top250.csv", index=False)
+result = top250[
+    [
+        "primaryTitle",
+        "startYear",
+        "genres",
+        "averageRating",
+        "numVotes"
+    ]
+]
 
-print(top250)
+result = result.rename(columns={
+    "primaryTitle": "Movie Name",
+    "startYear": "Year",
+    "genres": "Genre",
+    "averageRating": "Rating",
+    "numVotes": "Votes"
+})
+
+result.to_csv("data/imdb_top250.csv", index=False)
+
+print(result)
