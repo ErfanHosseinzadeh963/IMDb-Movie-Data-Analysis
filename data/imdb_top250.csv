@@ -1,251 +1,251 @@
-Movie Name,Year,Genre,Rating,Votes
-The Shawshank Redemption,1994.0,Drama,9.3,3261789
-The Godfather,1972.0,"Crime,Drama",9.2,2270670
-The Dark Knight,2008.0,"Crime,Thriller",9.1,3247626
-The Chaos Class,1975.0,Comedy,9.1,46961
-You Can See Everything,2026.0,"Biography,Comedy,Crime",9.1,26917
-The Godfather Part II,1974.0,"Crime,Drama",9.0,1522813
-12 Angry Men,1957.0,"Crime,Drama",9.0,1010916
-Schindler's List,1993.0,"Biography,Drama,History",9.0,1612402
-The Lord of the Rings: The Return of the King,2003.0,"Adventure,Drama,Fantasy",9.0,2206154
-The Lord of the Rings: The Fellowship of the Ring,2001.0,"Adventure,Drama,Fantasy",8.9,2250360
-Attack on Titan: The Last Attack,2024.0,"Action,Adventure,Animation",8.9,40180
-David Attenborough: A Life on Our Planet,2020.0,"Biography,Documentary",8.9,36526
-Tosun Pasha,1976.0,"Comedy,History",8.8,26827
-Pulp Fiction,1994.0,"Crime,Drama",8.8,2481657
-Forrest Gump,1994.0,"Drama,Romance",8.8,2551192
-Punjab '95,2026.0,"Biography,Crime,Drama",8.8,107013
-"The Good, the Bad and the Ugly",1966.0,"Adventure,Drama,Western",8.8,906216
-The Lord of the Rings: The Two Towers,2002.0,"Adventure,Drama,Fantasy",8.8,1995385
-Fight Club,1999.0,"Crime,Drama,Thriller",8.8,2680744
-Mirror Game,2016.0,"Crime,Mystery,Thriller",8.8,31219
-Inception,2010.0,"Adventure,Sci-Fi,Thriller",8.8,2886798
-Interstellar,2014.0,"Adventure,Sci-Fi",8.7,2630480
-Kill Bill: The Whole Bloody Affair,2004.0,"Action,Crime,Thriller",8.7,68332
-The Matrix,1999.0,"Action,Sci-Fi",8.7,2292156
-GoodFellas,1990.0,"Biography,Crime,Drama",8.7,1422558
-12th Fail,2023.0,"Biography,Drama",8.7,179504
-Star Wars: Episode V - The Empire Strikes Back,1980.0,"Adventure,Fantasy,Sci-Fi",8.7,1532177
-Soorarai Pottru,2020.0,Drama,8.6,133439
-Spirited Away,2001.0,"Adventure,Animation,Family",8.6,992570
-It's a Wonderful Life,1946.0,"Drama,Family,Fantasy",8.6,562934
-20 Days in Mariupol,2023.0,"Documentary,War",8.6,66078
-Rocketry: The Nambi Effect,2022.0,"Biography,Drama",8.6,62951
-One Flew Over the Cuckoo's Nest,1975.0,Drama,8.6,1173094
-City of God,2002.0,"Crime,Drama",8.6,886689
-Star Wars: Episode IV - A New Hope,1977.0,"Action,Adventure,Fantasy",8.6,1596928
-Seven,1995.0,"Crime,Drama,Mystery",8.6,2075174
-777 Charlie,2022.0,"Adventure,Comedy,Drama",8.6,49071
-Seven Samurai,1954.0,"Action,Drama",8.6,407622
-Saving Private Ryan,1998.0,"Drama,War",8.6,1671708
-Nayakan,1987.0,"Crime,Drama",8.6,28410
-The Green Mile,1999.0,"Crime,Drama,Fantasy",8.6,1596060
-Anbe Sivam,2003.0,"Adventure,Comedy,Drama",8.6,28803
-Terminator 2: Judgment Day,1991.0,"Action,Adventure,Sci-Fi",8.6,1309642
-The Silence of the Lambs,1991.0,"Crime,Drama,Horror",8.6,1764839
-Harakiri,1962.0,"Drama,Mystery",8.6,95407
-Life Is Beautiful,1997.0,"Comedy,Drama,Romance",8.6,827305
-Jai Bhim,2021.0,"Crime,Drama",8.6,237270
-Once Upon a Time in the West,1968.0,"Drama,Western",8.5,389196
-The Lion King,1994.0,"Adventure,Animation,Drama",8.5,1284564
-Cinema Paradiso,1988.0,"Drama,Romance",8.5,322637
-Léon: The Professional,1994.0,"Action,Crime,Drama",8.5,1372449
-Parasite,2019.0,"Drama,Thriller",8.5,1207414
-Back to the Future,1985.0,"Adventure,Comedy,Sci-Fi",8.5,1486199
-The Departed,2006.0,"Crime,Drama,Thriller",8.5,1588914
-Dear Zachary: A Letter to a Son About His Father,2008.0,"Biography,Crime,Documentary",8.5,47157
-Meiyazhagan,2024.0,"Drama,Family",8.5,25012
-The Prestige,2006.0,"Drama,Mystery,Sci-Fi",8.5,1639422
-The Pianist,2002.0,"Biography,Drama,Music",8.5,1030990
-Jersey,2019.0,"Drama,Sport",8.5,30876
-Casablanca,1942.0,"Drama,Romance,War",8.5,663865
-Spider-Man: Across the Spider-Verse,2023.0,"Action,Adventure,Animation",8.5,561438
-Baraka,1992.0,Documentary,8.5,43674
-Whiplash,2014.0,"Drama,Music",8.5,1191348
-Modern Times,1936.0,"Comedy,Drama,Romance",8.5,289019
-Gladiator,2000.0,"Action,Adventure,Drama",8.5,1893357
-Mahavatar Narsimha,2024.0,"Action,Animation,Drama",8.5,49274
-Sita Ramam,2022.0,"Action,Drama,Musical",8.5,86504
-Grave of the Fireflies,1988.0,"Animation,Drama,War",8.5,400662
-Django Unchained,2012.0,"Drama,Western",8.5,1925077
-City Lights,1931.0,"Comedy,Drama,Romance",8.5,219108
-The Usual Suspects,1995.0,"Crime,Drama,Mystery",8.5,1261498
-Psycho,1960.0,"Drama,Horror,Mystery",8.5,799422
-American History X,1998.0,"Crime,Drama",8.5,1292280
-The Intouchables,2011.0,"Comedy,Drama",8.5,1048075
-Anniyan,2005.0,"Action,Crime,Drama",8.4,27240
-Avengers: Endgame,2019.0,"Action,Adventure,Sci-Fi",8.4,1505943
-The Salt of the Earth,2014.0,"Biography,Documentary,History",8.4,25631
-Aliens,1986.0,"Action,Adventure,Horror",8.4,852127
-Your Name.,2016.0,"Animation,Drama,Fantasy",8.4,409517
-Senna,2010.0,"Biography,Documentary,Sport",8.4,84624
-Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,2021.0,"Action,Animation,Fantasy",8.4,37217
-Dune: Part Two,2024.0,"Action,Adventure,Drama",8.4,804288
-Alien,1979.0,"Horror,Sci-Fi",8.4,1082636
-Apocalypse Now,1979.0,"Drama,Mystery,War",8.4,781550
-Inglourious Basterds,2009.0,"Drama,War",8.4,1828590
-The Great Dictator,1940.0,"Comedy,Drama,War",8.4,261291
-Spider-Man: Into the Spider-Verse,2018.0,"Action,Adventure,Animation",8.4,823619
-High and Low,1963.0,"Crime,Drama,Mystery",8.4,74382
-Kaithi,2019.0,"Action,Crime,Thriller",8.4,53313
-Good Will Hunting,1997.0,"Drama,Romance",8.4,1252179
-Avengers: Infinity War,2018.0,"Action,Adventure,Sci-Fi",8.4,1422419
-Witness for the Prosecution,1957.0,"Crime,Drama,Mystery",8.4,165869
-Black Friday,2004.0,"Action,Crime,Drama",8.4,26723
-The Lives of Others,2006.0,"Drama,Mystery,Thriller",8.4,448805
-Woman in the Dunes,1964.0,"Drama,Thriller",8.4,27048
-The Best of Youth,2003.0,"Drama,Romance",8.4,29041
-The Odyssey,2026.0,"Action,Adventure,Drama",8.4,544281
-Paths of Glory,1957.0,"Drama,War",8.4,243899
-Drishyam,2013.0,"Crime,Drama,Mystery",8.4,50155
-Vada Chennai,2018.0,"Action,Crime,Drama",8.4,25096
-Sarpatta Parambarai,2021.0,"Action,Drama,Sport",8.4,29236
-Sunset Boulevard,1950.0,"Drama,Film-Noir",8.4,264944
-The Kashmir Files,2022.0,Drama,8.4,580223
-3 Idiots,2009.0,"Comedy,Drama",8.4,492252
-96,2018.0,"Drama,Romance",8.4,47058
-Drishyam 2,2021.0,"Crime,Drama,Mystery",8.4,46392
-The Dark Knight Rises,2012.0,"Crime,Thriller",8.4,2037083
-The Shining,1980.0,"Drama,Horror",8.4,1252820
-The Cove,2009.0,"Biography,Crime,Documentary",8.4,52978
-Memento,2000.0,"Mystery,Thriller",8.4,1466049
-Rear Window,1954.0,"Drama,Mystery,Thriller",8.4,576543
-Raiders of the Lost Ark,1981.0,Adventure,8.4,1125194
-Capernaum,2018.0,Drama,8.4,127955
-Amadeus,1984.0,"Biography,Drama,Music",8.4,475516
-Coco,2017.0,"Adventure,Animation,Drama",8.4,734029
-Asuran,2019.0,"Action,Drama",8.4,38026
-WALL·E,2008.0,"Adventure,Animation,Family",8.4,1348779
-Samsara,2011.0,"Documentary,Music",8.4,40409
-Hoop Dreams,1994.0,"Documentary,Drama,Sport",8.3,29961
-Requiem for a Dream,2000.0,Drama,8.3,989255
-Sardar Udham,2021.0,"Crime,Drama,History",8.3,51587
-Shershaah,2021.0,"Action,Biography,Drama",8.3,137921
-Chhichhore,2019.0,"Comedy,Drama,Romance",8.3,75100
-Double Indemnity,1944.0,"Crime,Drama,Film-Noir",8.3,184029
-Up,2009.0,"Adventure,Animation,Comedy",8.3,1262537
-Maharaja,2024.0,"Action,Crime,Drama",8.3,87156
-Like Stars on Earth,2007.0,"Drama,Family",8.3,237575
-Hi Nanna,2023.0,"Drama,Family,Romance",8.3,27916
-Hamilton,2020.0,"Biography,Drama,History",8.3,143992
-Vikram,2022.0,"Action,Crime,Mystery",8.3,91867
-Star Wars: Episode VI - Return of the Jedi,1983.0,"Action,Adventure,Fantasy",8.3,1228862
-2001: A Space Odyssey,1968.0,"Adventure,Sci-Fi",8.3,796651
-M,1931.0,"Crime,Mystery,Thriller",8.3,185150
-Man with a Movie Camera,1929.0,Documentary,8.3,30895
-Princess Mononoke,1997.0,"Adventure,Animation,Fantasy",8.3,493974
-Scarface,1983.0,"Crime,Drama",8.3,1041545
-Oldboy,2003.0,"Action,Drama,Mystery",8.3,737749
-Eternal Sunshine of the Spotless Mind,2004.0,"Drama,Romance,Sci-Fi",8.3,1201811
-American Beauty,1999.0,Drama,8.3,1292216
-Lawrence of Arabia,1962.0,"Adventure,Biography,Drama",8.3,348014
-A Separation,2011.0,Drama,8.3,281582
-Heat,1995.0,"Action,Crime,Drama",8.3,823620
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964.0,"Comedy,War",8.3,556763
-Premam,2015.0,"Comedy,Drama,Musical",8.3,29341
-Dangal,2016.0,"Action,Biography,Drama",8.3,249913
-Judgment at Nuremberg,1961.0,"Drama,History,War",8.3,99031
-The Hunt,2012.0,Drama,8.3,422115
-The Apartment,1960.0,"Comedy,Drama,Romance",8.3,224225
-Toy Story,1995.0,"Adventure,Animation,Comedy",8.3,1206001
-Bangalore Days,2014.0,"Comedy,Drama,Musical",8.3,29064
-Lost Ladies,2023.0,"Comedy,Drama",8.3,62794
-Toy Story 3,2010.0,"Adventure,Animation,Comedy",8.3,995858
-I Swear,2025.0,"Biography,Drama",8.3,72824
-Once Upon a Time in America,1984.0,"Crime,Drama",8.3,413983
-Incendies,2010.0,"Drama,Mystery,War",8.3,262641
-Braveheart,1995.0,"Drama,War",8.3,1176411
-Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025.0,"Action,Adventure,Animation",8.3,89693
-Ratsasan,2018.0,"Crime,Drama,Mystery",8.3,61636
-Come and See,1985.0,"Drama,Thriller,War",8.3,127907
-Das Boot,1981.0,"Drama,War",8.3,291567
-Joker,2019.0,"Drama,Thriller",8.3,1735532
-Chainsaw Man - The Movie: Reze Arc,2025.0,"Action,Adventure,Animation",8.3,72504
-Dil Bechara,2020.0,"Comedy,Drama,Romance",8.3,139076
-Ikiru,1952.0,Drama,8.3,104616
-Singin' in the Rain,1952.0,"Comedy,Musical,Romance",8.3,287092
-Won't You Be My Neighbor?,2018.0,"Biography,Documentary,History",8.3,28374
-The Chaos Class Failed the Class,1975.0,Comedy,8.3,31788
-The Thing,1982.0,"Horror,Mystery,Sci-Fi",8.2,541858
-Tumbbad,2018.0,"Drama,Fantasy,Horror",8.2,78313
-The Sting,1973.0,"Comedy,Crime,Drama",8.2,307993
-Citizen Kane,1941.0,"Drama,Mystery",8.2,498373
-Indiana Jones and the Last Crusade,1989.0,Adventure,8.2,874882
-Manjummel Boys,2024.0,"Adventure,Drama,Thriller",8.2,35714
-Unforgiven,1992.0,"Drama,Western",8.2,474721
-Reservoir Dogs,1992.0,"Crime,Drama,Thriller",8.2,1186644
-Uri: The Surgical Strike,2019.0,"Action,Drama,History",8.2,85983
-The Father,2020.0,"Drama,Mystery",8.2,251790
-Jurassic Park,1993.0,"Adventure,Sci-Fi",8.2,1205514
-My Father and My Son,2005.0,Drama,8.2,102772
-K.G.F: Chapter 2,2022.0,"Action,Crime,Drama",8.2,173799
-Koyaanisqatsi,1982.0,"Documentary,Music",8.2,45374
-Gone with the Wind,1939.0,"Drama,Romance,War",8.2,360126
-All About Eve,1950.0,Drama,8.2,151137
-Miracle in Cell No. 7,2019.0,Drama,8.2,65030
-Hera Pheri,2000.0,"Action,Comedy,Crime",8.2,82434
-Bhaag Milkha Bhaag,2013.0,"Biography,Drama,Sport",8.2,80407
-The Act of Killing,2012.0,"Biography,Crime,Documentary",8.2,45030
-A Clockwork Orange,1971.0,"Crime,Sci-Fi",8.2,949156
-Bicycle Thieves,1948.0,Drama,8.2,194137
-Shutter Island,2010.0,"Mystery,Thriller",8.2,1696073
-Full Metal Jacket,1987.0,"Drama,War",8.2,863791
-The Treasure of the Sierra Madre,1948.0,"Adventure,Drama,Western",8.2,143264
-Vikram Vedha,2017.0,"Action,Crime,Drama",8.2,56463
-Ayla: The Daughter of War,2017.0,"Biography,Drama,History",8.2,49523
-The Elephant Man,1980.0,"Biography,Drama",8.2,286028
-Dhurandhar,2025.0,"Action,Crime,Thriller",8.2,152962
-The Secret in Their Eyes,2009.0,"Drama,Mystery,Romance",8.2,246729
-Green Book,2018.0,"Biography,Comedy,Drama",8.2,710673
-Pather Panchali,1955.0,"Drama,History",8.2,42550
-Casino,1995.0,"Crime,Drama",8.2,631249
-Snatch,2000.0,"Comedy,Crime",8.2,989926
-Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020.0,"Action,Adventure,Animation",8.2,104160
-Amélie,2001.0,"Comedy,Romance",8.2,849886
-Finding Nemo,2003.0,"Adventure,Animation,Comedy",8.2,1230755
-Kill Bill: Vol. 1,2003.0,"Action,Crime,Thriller",8.2,1331644
-Dersu Uzala,1975.0,"Adventure,Biography,Drama",8.2,37077
-A Beautiful Mind,2001.0,"Biography,Drama,Mystery",8.2,1067962
-Rangasthalam,2018.0,"Action,Drama",8.2,31808
-Khosla Ka Ghosla!,2006.0,"Comedy,Crime,Drama",8.2,27633
-Pan's Labyrinth,2006.0,"Drama,Fantasy,War",8.2,756735
-They Shall Not Grow Old,2018.0,"Documentary,History,War",8.2,41348
-Project Hail Mary,2026.0,"Adventure,Comedy,Sci-Fi",8.2,595205
-There Will Be Blood,2007.0,Drama,8.2,723345
-Andhadhun,2018.0,"Comedy,Crime,Mystery",8.2,119063
-No Country for Old Men,2007.0,"Crime,Drama,Thriller",8.2,1221401
-No Other Land,2024.0,Documentary,8.2,57065
-13th,2016.0,"Crime,Documentary,History",8.2,39743
-Searching for Sugar Man,2012.0,"Biography,Documentary,Music",8.2,77136
-Top Gun: Maverick,2022.0,"Action,Drama",8.2,912317
-North by Northwest,1959.0,"Action,Adventure,Drama",8.2,373178
-Taxi Driver,1976.0,"Crime,Drama",8.2,1047752
-Some Like It Hot,1959.0,"Comedy,Music,Romance",8.2,308565
-The Sixth Sense,1999.0,"Drama,Mystery,Thriller",8.2,1175928
-Vertigo,1958.0,"Mystery,Romance,Thriller",8.2,464745
-Prisoners,2013.0,"Crime,Drama,Mystery",8.2,967006
-Baahubali 2: The Conclusion,2017.0,"Action,Drama",8.2,137632
-Yojimbo,1961.0,"Action,Drama,Thriller",8.2,145379
-Oppenheimer,2023.0,"Biography,Drama,History",8.2,1110437
-Rocco and His Brothers,1960.0,"Crime,Drama,Sport",8.2,26290
-A Silent Voice: The Movie,2016.0,"Animation,Drama",8.2,152870
-The Great Escape,1963.0,"Adventure,Drama,Thriller",8.2,281413
-Klaus,2019.0,"Adventure,Animation,Comedy",8.2,244596
-Dhurandhar: The Revenge,2026.0,"Action,Crime,Thriller",8.2,74641
-Gangs of Wasseypur,2012.0,"Action,Comedy,Crime",8.2,116256
-Howl's Moving Castle,2004.0,"Adventure,Animation,Family",8.2,525221
-The Truman Show,1998.0,"Comedy,Drama",8.2,1417540
-Paan Singh Tomar,2012.0,"Action,Biography,Crime",8.2,40691
-Zindagi Na Milegi Dobara,2011.0,"Adventure,Comedy,Drama",8.2,98161
-Die Hard,1988.0,"Action,Thriller",8.2,1044076
-Children of Heaven,1997.0,"Drama,Family,Sport",8.2,91846
-Swades,2004.0,"Drama,Musical",8.2,107731
-Ran,1985.0,"Action,Drama,War",8.2,155834
-Downfall,2004.0,"Biography,Drama,History",8.2,405489
-Close-Up,1990.0,"Biography,Crime,Drama",8.2,27688
-Drishyam 2,2022.0,"Crime,Drama,Mystery",8.2,54532
-Munna Bhai M.B.B.S.,2003.0,"Comedy,Drama",8.2,100199
-Inside Job,2010.0,"Crime,Documentary",8.2,83120
-For a Few Dollars More,1965.0,"Drama,Western",8.2,305367
-Batman Begins,2005.0,Crime,8.2,1753029
-L.A. Confidential,1997.0,"Crime,Drama,Mystery",8.2,666377
+Movie Name,Year,Genre,Rating,Votes,Writers
+The Shawshank Redemption,1994.0,Drama,9.3,3261789,"Stephen King, Frank Darabont"
+The Godfather,1972.0,"Crime,Drama",9.2,2270670,"Mario Puzo, Francis Ford Coppola"
+The Dark Knight,2008.0,"Crime,Thriller",9.1,3247626,"Jonathan Nolan, Christopher Nolan, David S. Goyer, Bob Kane"
+The Chaos Class,1975.0,Comedy,9.1,46961,"Umur Bugay, Rıfat Ilgaz"
+You Can See Everything,2026.0,"Biography,Comedy,Crime",9.1,26917,nan
+The Godfather Part II,1974.0,"Crime,Drama",9.0,1522813,"Francis Ford Coppola, Mario Puzo"
+12 Angry Men,1957.0,"Crime,Drama",9.0,1010916,Reginald Rose
+Schindler's List,1993.0,"Biography,Drama,History",9.0,1612402,"Thomas Keneally, Steven Zaillian"
+The Lord of the Rings: The Return of the King,2003.0,"Adventure,Drama,Fantasy",9.0,2206154,"J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson"
+The Lord of the Rings: The Fellowship of the Ring,2001.0,"Adventure,Drama,Fantasy",8.9,2250360,"J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson"
+Attack on Titan: The Last Attack,2024.0,"Action,Adventure,Animation",8.9,40180,"Hajime Isayama, Shintarô Kawakubo, Hiroshi Seko"
+David Attenborough: A Life on Our Planet,2020.0,"Biography,Documentary",8.9,36526,nan
+Tosun Pasha,1976.0,"Comedy,History",8.8,26827,Yavuz Turgul
+Pulp Fiction,1994.0,"Crime,Drama",8.8,2481657,"Quentin Tarantino, Roger Avary"
+Forrest Gump,1994.0,"Drama,Romance",8.8,2551192,"Winston Groom, Eric Roth"
+Punjab '95,2026.0,"Biography,Crime,Drama",8.8,107013,"Niren Bhatt, Utsav Maitra, Honey Trehan, Maitra Utsav"
+"The Good, the Bad and the Ugly",1966.0,"Adventure,Drama,Western",8.8,906216,"Luciano Vincenzoni, Sergio Leone, Agenore Incrocci, Furio Scarpelli, Mickey Knox"
+The Lord of the Rings: The Two Towers,2002.0,"Adventure,Drama,Fantasy",8.8,1995385,"J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Stephen Sinclair, Peter Jackson"
+Fight Club,1999.0,"Crime,Drama,Thriller",8.8,2680744,"Chuck Palahniuk, Jim Uhls"
+Mirror Game,2016.0,"Crime,Mystery,Thriller",8.8,31219,"Syed Gaosul Alam Shaon, Anam Biswas, Adnan Adib Khan"
+Inception,2010.0,"Adventure,Sci-Fi,Thriller",8.8,2886798,Christopher Nolan
+Interstellar,2014.0,"Adventure,Sci-Fi",8.7,2630480,"Jonathan Nolan, Christopher Nolan"
+Kill Bill: The Whole Bloody Affair,2004.0,"Action,Crime,Thriller",8.7,68332,"Quentin Tarantino, Uma Thurman"
+The Matrix,1999.0,"Action,Sci-Fi",8.7,2292156,"Lilly Wachowski, Lana Wachowski"
+GoodFellas,1990.0,"Biography,Crime,Drama",8.7,1422558,"Nicholas Pileggi, Martin Scorsese"
+12th Fail,2023.0,"Biography,Drama",8.7,179504,"Vidhu Vinod Chopra, Jaskunwar Kohli, Anurag Pathak, Aayush Saxena"
+Star Wars: Episode V - The Empire Strikes Back,1980.0,"Adventure,Fantasy,Sci-Fi",8.7,1532177,"Leigh Brackett, Lawrence Kasdan, George Lucas"
+Soorarai Pottru,2020.0,Drama,8.6,133439,"Sudha Kongara, Shalini Ushadevi, Vijay Kumar, Aalif Surti, Ganeshaa, Rajendra Sapre, Sunandha Raghunathan, Sibi Naayagam"
+Spirited Away,2001.0,"Adventure,Animation,Family",8.6,992570,Hayao Miyazaki
+It's a Wonderful Life,1946.0,"Drama,Family,Fantasy",8.6,562934,"Frances Goodrich, Albert Hackett, Frank Capra, Jo Swerling, Philip Van Doren Stern, Michael Wilson"
+20 Days in Mariupol,2023.0,"Documentary,War",8.6,66078,"Mstyslav Chernov, Katherine Griwert"
+Rocketry: The Nambi Effect,2022.0,"Biography,Drama",8.6,62951,"Madhavan, Ananth Mahadevan, Rahul Pandey, Sreedevi Krishnan, Sukhmani Sadana, Anjali Nair"
+One Flew Over the Cuckoo's Nest,1975.0,Drama,8.6,1173094,"Lawrence Hauben, Bo Goldman, Ken Kesey, Dale Wasserman"
+City of God,2002.0,"Crime,Drama",8.6,886689,"Bráulio Mantovani, Paulo Lins"
+Star Wars: Episode IV - A New Hope,1977.0,"Action,Adventure,Fantasy",8.6,1596928,George Lucas
+Seven,1995.0,"Crime,Drama,Mystery",8.6,2075174,Andrew Kevin Walker
+777 Charlie,2022.0,"Adventure,Comedy,Drama",8.6,49071,"Kiranraj K, K.N. Vijay Kumar, Satheesh Muthukulam, Sanjay Upadhyay"
+Seven Samurai,1954.0,"Action,Drama",8.6,407622,"Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni"
+Saving Private Ryan,1998.0,"Drama,War",8.6,1671708,Robert Rodat
+Nayakan,1987.0,"Crime,Drama",8.6,28410,"Balakumaran, Rajasri, Mani Ratnam"
+The Green Mile,1999.0,"Crime,Drama,Fantasy",8.6,1596060,"Stephen King, Frank Darabont"
+Anbe Sivam,2003.0,"Adventure,Comedy,Drama",8.6,28803,"Kamal Haasan, Madan, Mohan Nair"
+Terminator 2: Judgment Day,1991.0,"Action,Adventure,Sci-Fi",8.6,1309642,"James Cameron, William Wisher"
+The Silence of the Lambs,1991.0,"Crime,Drama,Horror",8.6,1764839,"Thomas Harris, Ted Tally"
+Harakiri,1962.0,"Drama,Mystery",8.6,95407,"Yasuhiko Takiguchi, Shinobu Hashimoto"
+Life Is Beautiful,1997.0,"Comedy,Drama,Romance",8.6,827305,"Vincenzo Cerami, Roberto Benigni"
+Jai Bhim,2021.0,"Crime,Drama",8.6,237270,"T.J. Gnanavel, Rajendra Sapre"
+Once Upon a Time in the West,1968.0,"Drama,Western",8.5,389196,"Sergio Donati, Sergio Leone, Dario Argento, Bernardo Bertolucci, Mickey Knox"
+The Lion King,1994.0,"Adventure,Animation,Drama",8.5,1284564,"Irene Mecchi, Jonathan Roberts, Linda Woolverton, Burny Mattinson, Barry Johnson, Lorna Cook, Thom Enriquez, Andy Gaskill, Gary Trousdale, Jim Capobianco, Kevin Harkey, Jorgen Klubien, Chris Sanders, Tom Sito, Larry Leker, Joe Ranft, Rick Maki, Ed Gombert, Francis Glebas, Mark Kausler, J.T. Allen, George Scribner, Miguel Tejada-Flores, Jenny Tripp, Bob Tzudiker, Christopher Vogler, Kirk Wise, Noni White, Brenda Chapman"
+Cinema Paradiso,1988.0,"Drama,Romance",8.5,322637,"Giuseppe Tornatore, Vanna Paoli"
+Léon: The Professional,1994.0,"Action,Crime,Drama",8.5,1372449,Luc Besson
+Parasite,2019.0,"Drama,Thriller",8.5,1207414,"Bong Joon Ho, Han Jin-won"
+Back to the Future,1985.0,"Adventure,Comedy,Sci-Fi",8.5,1486199,"Robert Zemeckis, Bob Gale"
+The Departed,2006.0,"Crime,Drama,Thriller",8.5,1588914,"William Monahan, Alan Mak, Felix Chong"
+Dear Zachary: A Letter to a Son About His Father,2008.0,"Biography,Crime,Documentary",8.5,47157,Kurt Kuenne
+Meiyazhagan,2024.0,"Drama,Family",8.5,25012,C. Prem Kumar
+The Prestige,2006.0,"Drama,Mystery,Sci-Fi",8.5,1639422,"Jonathan Nolan, Christopher Nolan, Christopher Priest"
+The Pianist,2002.0,"Biography,Drama,Music",8.5,1030990,"Ronald Harwood, Wladyslaw Szpilman"
+Jersey,2019.0,"Drama,Sport",8.5,30876,"Gowtam Tinnanuri, Prashant Yarramilli"
+Casablanca,1942.0,"Drama,Romance,War",8.5,663865,"Philip G. Epstein, Julius J. Epstein, Howard Koch, Murray Burnett, Joan Alison, Casey Robinson"
+Spider-Man: Across the Spider-Verse,2023.0,"Action,Adventure,Animation",8.5,561438,"Phil Lord, Christopher Miller, Dave Callaham"
+Baraka,1992.0,Documentary,8.5,43674,"Ron Fricke, Mark Magidson, Genevieve Nicholas, Constantine Nicholas, Bob Green"
+Whiplash,2014.0,"Drama,Music",8.5,1191348,Damien Chazelle
+Modern Times,1936.0,"Comedy,Drama,Romance",8.5,289019,Charles Chaplin
+Gladiator,2000.0,"Action,Adventure,Drama",8.5,1893357,"David Franzoni, John Logan, William Nicholson"
+Mahavatar Narsimha,2024.0,"Action,Animation,Drama",8.5,49274,"Jayapurna Das, Ashwin Kumar, Rudra Pratap Ghosh, Rudra P. Ghosh"
+Sita Ramam,2022.0,"Action,Drama,Musical",8.5,86504,"Hanu Raghavapudi, Jay Krishna, Raj Kumar Kandamudi, Rutham Samar, Rawindra Pulle, Madhan Karky, Sarath Balan, Sanjay Upadhyay"
+Grave of the Fireflies,1988.0,"Animation,Drama,War",8.5,400662,"Akiyuki Nosaka, Isao Takahata"
+Django Unchained,2012.0,"Drama,Western",8.5,1925077,Quentin Tarantino
+City Lights,1931.0,"Comedy,Drama,Romance",8.5,219108,"Charles Chaplin, Harry Carr, Harry Crocker"
+The Usual Suspects,1995.0,"Crime,Drama,Mystery",8.5,1261498,Christopher McQuarrie
+Psycho,1960.0,"Drama,Horror,Mystery",8.5,799422,"Joseph Stefano, Robert Bloch"
+American History X,1998.0,"Crime,Drama",8.5,1292280,David McKenna
+The Intouchables,2011.0,"Comedy,Drama",8.5,1048075,"Olivier Nakache, Éric Toledano, Philippe Pozzo di Borgo"
+Anniyan,2005.0,"Action,Crime,Drama",8.4,27240,"Gopal Ram, Shankar Shanmugham, Sujatha"
+Avengers: Endgame,2019.0,"Action,Adventure,Sci-Fi",8.4,1505943,"Christopher Markus, Stephen McFeely, Stan Lee, Jack Kirby, Joe Simon, Steve Englehart, Steve Gan, Bill Mantlo, Keith Giffen, Jim Starlin, Larry Lieber, Don Heck"
+The Salt of the Earth,2014.0,"Biography,Documentary,History",8.4,25631,"Wim Wenders, Juliano Ribeiro Salgado, David Rosier"
+Aliens,1986.0,"Action,Adventure,Horror",8.4,852127,"James Cameron, David Giler, Walter Hill, Dan O'Bannon, Ronald Shusett"
+Your Name.,2016.0,"Animation,Drama,Fantasy",8.4,409517,"Makoto Shinkai, Arata Kanou"
+Senna,2010.0,"Biography,Documentary,Sport",8.4,84624,Manish Pandey
+Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,2021.0,"Action,Animation,Fantasy",8.4,37217,Koyoharu Gotouge
+Dune: Part Two,2024.0,"Action,Adventure,Drama",8.4,804288,"Denis Villeneuve, Jon Spaihts, Frank Herbert"
+Alien,1979.0,"Horror,Sci-Fi",8.4,1082636,"Dan O'Bannon, Ronald Shusett"
+Apocalypse Now,1979.0,"Drama,Mystery,War",8.4,781550,"John Milius, Francis Ford Coppola, Michael Herr, Joseph Conrad"
+Inglourious Basterds,2009.0,"Drama,War",8.4,1828590,Quentin Tarantino
+The Great Dictator,1940.0,"Comedy,Drama,War",8.4,261291,Charles Chaplin
+Spider-Man: Into the Spider-Verse,2018.0,"Action,Adventure,Animation",8.4,823619,"Phil Lord, Rodney Rothman"
+High and Low,1963.0,"Crime,Drama,Mystery",8.4,74382,"Hideo Oguni, Ryûzô Kikushima, Eijirô Hisaita, Akira Kurosawa, Evan Hunter"
+Kaithi,2019.0,"Action,Crime,Thriller",8.4,53313,"Lokesh Kanagaraj, Pon Parthiban, Sanjeev Tiwari"
+Good Will Hunting,1997.0,"Drama,Romance",8.4,1252179,"Matt Damon, Ben Affleck"
+Avengers: Infinity War,2018.0,"Action,Adventure,Sci-Fi",8.4,1422419,"Christopher Markus, Stephen McFeely, Stan Lee, Jack Kirby, Joe Simon, Steve Englehart, Steve Gan, Bill Mantlo, Keith Giffen, Jim Starlin, Larry Lieber, Don Heck"
+Witness for the Prosecution,1957.0,"Crime,Drama,Mystery",8.4,165869,"Agatha Christie, Billy Wilder, Harry Kurnitz, Lawrence B. Marcus"
+Black Friday,2004.0,"Action,Crime,Drama",8.4,26723,"Anurag Kashyap, Hussain Zaidi, Piyush Mishra"
+The Lives of Others,2006.0,"Drama,Mystery,Thriller",8.4,448805,Florian Henckel von Donnersmarck
+Woman in the Dunes,1964.0,"Drama,Thriller",8.4,27048,"Kôbô Abe, Eiko Yoshida"
+The Best of Youth,2003.0,"Drama,Romance",8.4,29041,"Sandro Petraglia, Stefano Rulli"
+The Odyssey,2026.0,"Action,Adventure,Drama",8.4,544281,"Christopher Nolan, Homer"
+Paths of Glory,1957.0,"Drama,War",8.4,243899,"Stanley Kubrick, Calder Willingham, Jim Thompson, Humphrey Cobb"
+Drishyam,2013.0,"Crime,Drama,Mystery",8.4,50155,Jeethu Joseph
+Vada Chennai,2018.0,"Action,Crime,Drama",8.4,25096,"Gautam Siddhartha, Vetrimaaran"
+Sarpatta Parambarai,2021.0,"Action,Drama,Sport",8.4,29236,"Tamizh Prabha, Pa. Ranjith"
+Sunset Boulevard,1950.0,"Drama,Film-Noir",8.4,264944,"Charles Brackett, Billy Wilder, D.M. Marshman Jr."
+The Kashmir Files,2022.0,Drama,8.4,580223,"Vivek Agnihotri, Saurabh M. Pandey"
+3 Idiots,2009.0,"Comedy,Drama",8.4,492252,"Abhijat Joshi, Rajkumar Hirani, Vidhu Vinod Chopra, Chetan Bhagat"
+96,2018.0,"Drama,Romance",8.4,47058,"Charu Gupta, C. Prem Kumar"
+Drishyam 2,2021.0,"Crime,Drama,Mystery",8.4,46392,Jeethu Joseph
+The Dark Knight Rises,2012.0,"Crime,Thriller",8.4,2037083,"Jonathan Nolan, Christopher Nolan, David S. Goyer, Bob Kane"
+The Shining,1980.0,"Drama,Horror",8.4,1252820,"Stephen King, Stanley Kubrick, Diane Johnson"
+The Cove,2009.0,"Biography,Crime,Documentary",8.4,52978,Mark Monroe
+Memento,2000.0,"Mystery,Thriller",8.4,1466049,"Christopher Nolan, Jonathan Nolan"
+Rear Window,1954.0,"Drama,Mystery,Thriller",8.4,576543,"John Michael Hayes, Cornell Woolrich"
+Raiders of the Lost Ark,1981.0,Adventure,8.4,1125194,"Lawrence Kasdan, George Lucas, Philip Kaufman"
+Capernaum,2018.0,Drama,8.4,127955,"Nadine Labaki, Jihad Hojeily, Michelle Keserwany, Georges Khabbaz, Khaled Mouzanar"
+Amadeus,1984.0,"Biography,Drama,Music",8.4,475516,"Peter Shaffer, Zdeněk Mahler"
+Coco,2017.0,"Adventure,Animation,Drama",8.4,734029,"Lee Unkrich, Jason Katz, Matthew Aldrich, Adrian Molina"
+Asuran,2019.0,"Action,Drama",8.4,38026,"M.S. Manimaran, Vetrimaaran, Suka, Poomani, Gautam Siddhartha"
+WALL·E,2008.0,"Adventure,Animation,Family",8.4,1348779,"Andrew Stanton, Pete Docter, Jim Reardon"
+Samsara,2011.0,"Documentary,Music",8.4,40409,"Ron Fricke, Mark Magidson"
+Hoop Dreams,1994.0,"Documentary,Drama,Sport",8.3,29961,nan
+Requiem for a Dream,2000.0,Drama,8.3,989255,"Hubert Selby Jr., Darren Aronofsky"
+Sardar Udham,2021.0,"Crime,Drama,History",8.3,51587,"Shubhendu Bhattacharya, Ritesh Shah"
+Shershaah,2021.0,"Action,Biography,Drama",8.3,137921,Sandeep Shrivastava
+Chhichhore,2019.0,"Comedy,Drama,Romance",8.3,75100,"Piyush Gupta, Nikhil Mehrotra, Nitesh Tiwari"
+Double Indemnity,1944.0,"Crime,Drama,Film-Noir",8.3,184029,"Billy Wilder, Raymond Chandler, James M. Cain"
+Up,2009.0,"Adventure,Animation,Comedy",8.3,1262537,"Pete Docter, Bob Peterson, Tom McCarthy"
+Maharaja,2024.0,"Action,Crime,Drama",8.3,87156,"T. Ajay Adithyan, Anil CR, Shahfaizal Chanbasha, Raam Murali, Gopal Ram, Nithilan Saminathan"
+Like Stars on Earth,2007.0,"Drama,Family",8.3,237575,Amole Gupte
+Hi Nanna,2023.0,"Drama,Family,Romance",8.3,27916,"Vamshi Bommena, Nagendra Kasi, Shouryuv, Rashmi Singh"
+Hamilton,2020.0,"Biography,Drama,History",8.3,143992,"Lin-Manuel Miranda, Ron Chernow"
+Vikram,2022.0,"Action,Crime,Mystery",8.3,91867,"Lokesh Kanagaraj, Rathna Kumar"
+Star Wars: Episode VI - Return of the Jedi,1983.0,"Action,Adventure,Fantasy",8.3,1228862,"Lawrence Kasdan, George Lucas"
+2001: A Space Odyssey,1968.0,"Adventure,Sci-Fi",8.3,796651,"Stanley Kubrick, Arthur C. Clarke"
+M,1931.0,"Crime,Mystery,Thriller",8.3,185150,"Thea von Harbou, Fritz Lang, Egon Jacobsohn"
+Man with a Movie Camera,1929.0,Documentary,8.3,30895,Dziga Vertov
+Princess Mononoke,1997.0,"Adventure,Animation,Fantasy",8.3,493974,Hayao Miyazaki
+Scarface,1983.0,"Crime,Drama",8.3,1041545,"Oliver Stone, Howard Hawks, Ben Hecht, Armitage Trail"
+Oldboy,2003.0,"Action,Drama,Mystery",8.3,737749,"Garon Tsuchiya, Nobuaki Minegishi, Park Chan-wook, Jo-yun Hwang, Joon-hyung Lim"
+Eternal Sunshine of the Spotless Mind,2004.0,"Drama,Romance,Sci-Fi",8.3,1201811,"Charlie Kaufman, Michel Gondry, Pierre Bismuth"
+American Beauty,1999.0,Drama,8.3,1292216,Alan Ball
+Lawrence of Arabia,1962.0,"Adventure,Biography,Drama",8.3,348014,"Robert Bolt, Michael Wilson"
+A Separation,2011.0,Drama,8.3,281582,Asghar Farhadi
+Heat,1995.0,"Action,Crime,Drama",8.3,823620,Michael Mann
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964.0,"Comedy,War",8.3,556763,"Stanley Kubrick, Terry Southern, Peter George"
+Premam,2015.0,"Comedy,Drama,Musical",8.3,29341,Alphonse Puthren
+Dangal,2016.0,"Action,Biography,Drama",8.3,249913,"Piyush Gupta, Shreyas Jain, Nikhil Mehrotra, Rajshri Sudhakar, Nitesh Tiwari"
+Judgment at Nuremberg,1961.0,"Drama,History,War",8.3,99031,Abby Mann
+The Hunt,2012.0,Drama,8.3,422115,"Thomas Vinterberg, Tobias Lindholm"
+The Apartment,1960.0,"Comedy,Drama,Romance",8.3,224225,"Billy Wilder, I.A.L. Diamond"
+Toy Story,1995.0,"Adventure,Animation,Comedy",8.3,1206001,"John Lasseter, Pete Docter, Andrew Stanton, Joe Ranft, Joss Whedon, Joel Cohen, Alec Sokolow, Robert Lence, Susan E. Levin"
+Bangalore Days,2014.0,"Comedy,Drama,Musical",8.3,29064,Anjali Menon
+Lost Ladies,2023.0,"Comedy,Drama",8.3,62794,"Biplab Goswami, Sneha Desai, Divy Nidhi Sharma"
+Toy Story 3,2010.0,"Adventure,Animation,Comedy",8.3,995858,"John Lasseter, Andrew Stanton, Lee Unkrich, Michael Arndt, Mark Andrews, Justin Wright, David Reynolds"
+I Swear,2025.0,"Biography,Drama",8.3,72824,Kirk Jones
+Once Upon a Time in America,1984.0,"Crime,Drama",8.3,413983,"Harry Grey, Leonardo Benvenuti, Piero De Bernardi, Enrico Medioli, Franco Arcalli, Franco Ferrini, Sergio Leone, Stuart Kaminsky, Ernesto Gastaldi"
+Incendies,2010.0,"Drama,Mystery,War",8.3,262641,"Wajdi Mouawad, Denis Villeneuve, Valérie Beaugrand-Champagne"
+Braveheart,1995.0,"Drama,War",8.3,1176411,Randall Wallace
+Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025.0,"Action,Adventure,Animation",8.3,89693,"Koyoharu Gotouge, Hikaru Kondô"
+Ratsasan,2018.0,"Crime,Drama,Mystery",8.3,61636,Ram Kumar
+Come and See,1985.0,"Drama,Thriller,War",8.3,127907,"Ales Adamovich, Elem Klimov"
+Das Boot,1981.0,"Drama,War",8.3,291567,"Wolfgang Petersen, Lothar G. Buchheim"
+Joker,2019.0,"Drama,Thriller",8.3,1735532,"Todd Phillips, Scott Silver, Bob Kane, Bill Finger, Jerry Robinson"
+Chainsaw Man - The Movie: Reze Arc,2025.0,"Action,Adventure,Animation",8.3,72504,"Tatsuki Fujimoto, Hiroshi Seko"
+Dil Bechara,2020.0,"Comedy,Drama,Romance",8.3,139076,"Shashank Khaitan, Suprotim Sengupta, Scott Neustadter, Michael H. Weber, John Green"
+Ikiru,1952.0,Drama,8.3,104616,"Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni"
+Singin' in the Rain,1952.0,"Comedy,Musical,Romance",8.3,287092,"Betty Comden, Adolph Green"
+Won't You Be My Neighbor?,2018.0,"Biography,Documentary,History",8.3,28374,nan
+The Chaos Class Failed the Class,1975.0,Comedy,8.3,31788,"Sadık Şendil, Rıfat Ilgaz"
+The Thing,1982.0,"Horror,Mystery,Sci-Fi",8.2,541858,"Bill Lancaster, John W. Campbell Jr."
+Tumbbad,2018.0,"Drama,Fantasy,Horror",8.2,78313,"Mitesh Shah, Adesh Prasad, Rahi Anil Barve, Anand Gandhi, Narayan Dharap, Satish Dev Narayan"
+The Sting,1973.0,"Comedy,Crime,Drama",8.2,307993,David S. Ward
+Citizen Kane,1941.0,"Drama,Mystery",8.2,498373,"Herman J. Mankiewicz, Orson Welles, John Houseman, Roger Q. Denny, Mollie Kent"
+Indiana Jones and the Last Crusade,1989.0,Adventure,8.2,874882,"Jeffrey Boam, George Lucas, Menno Meyjes, Philip Kaufman"
+Manjummel Boys,2024.0,"Adventure,Drama,Thriller",8.2,35714,Chidambaram
+Unforgiven,1992.0,"Drama,Western",8.2,474721,David Webb Peoples
+Reservoir Dogs,1992.0,"Crime,Drama,Thriller",8.2,1186644,"Quentin Tarantino, Roger Avary"
+Uri: The Surgical Strike,2019.0,"Action,Drama,History",8.2,85983,Aditya Dhar
+The Father,2020.0,"Drama,Mystery",8.2,251790,"Christopher Hampton, Florian Zeller"
+Jurassic Park,1993.0,"Adventure,Sci-Fi",8.2,1205514,"Michael Crichton, David Koepp"
+My Father and My Son,2005.0,Drama,8.2,102772,Çağan Irmak
+K.G.F: Chapter 2,2022.0,"Action,Crime,Drama",8.2,173799,Prashanth Neel
+Koyaanisqatsi,1982.0,"Documentary,Music",8.2,45374,"Godfrey Reggio, Ron Fricke, Michael Hoenig, Alton Walpole, Jacques Ellul, Ivan Illich, David Monongye, Guy Debord, Leopold Kohr"
+Gone with the Wind,1939.0,"Drama,Romance,War",8.2,360126,"Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett, Ben Hecht, Jo Swerling, John Van Druten"
+All About Eve,1950.0,Drama,8.2,151137,"Joseph L. Mankiewicz, Mary Orr"
+Miracle in Cell No. 7,2019.0,Drama,8.2,65030,Kubilay Tat
+Hera Pheri,2000.0,"Action,Comedy,Crime",8.2,82434,"Siddique, Lal, Neeraj Vora, Anand S. Vardhan"
+Bhaag Milkha Bhaag,2013.0,"Biography,Drama,Sport",8.2,80407,Prasoon Joshi
+The Act of Killing,2012.0,"Biography,Crime,Documentary",8.2,45030,nan
+A Clockwork Orange,1971.0,"Crime,Sci-Fi",8.2,949156,"Stanley Kubrick, Anthony Burgess"
+Bicycle Thieves,1948.0,Drama,8.2,194137,"Cesare Zavattini, Luigi Bartolini, Oreste Biancoli, Suso Cecchi D'Amico, Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri"
+Shutter Island,2010.0,"Mystery,Thriller",8.2,1696073,"Laeta Kalogridis, Dennis Lehane"
+Full Metal Jacket,1987.0,"Drama,War",8.2,863791,"Stanley Kubrick, Michael Herr, Gustav Hasford"
+The Treasure of the Sierra Madre,1948.0,"Adventure,Drama,Western",8.2,143264,"John Huston, Bruno Traven"
+Vikram Vedha,2017.0,"Action,Crime,Drama",8.2,56463,"Manikandan K., Gayatri, Pushkar, Gautam Siddhartha"
+Ayla: The Daughter of War,2017.0,"Biography,Drama,History",8.2,49523,Yigit Güralp
+The Elephant Man,1980.0,"Biography,Drama",8.2,286028,"Christopher De Vore, Eric Bergren, David Lynch, Frederick Treves, Ashley Montagu"
+Dhurandhar,2025.0,"Action,Crime,Thriller",8.2,152962,"Aditya Dhar, Ojas Gautam, Shivkumar V. Panicker"
+The Secret in Their Eyes,2009.0,"Drama,Mystery,Romance",8.2,246729,"Eduardo Sacheri, Juan José Campanella"
+Green Book,2018.0,"Biography,Comedy,Drama",8.2,710673,"Nick Vallelonga, Brian Hayes Currie, Peter Farrelly"
+Pather Panchali,1955.0,"Drama,History",8.2,42550,"Bibhutibhushan Bandyopadhyay, Satyajit Ray"
+Casino,1995.0,"Crime,Drama",8.2,631249,"Nicholas Pileggi, Martin Scorsese"
+Snatch,2000.0,"Comedy,Crime",8.2,989926,Guy Ritchie
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020.0,"Action,Adventure,Animation",8.2,104160,Koyoharu Gotouge
+Amélie,2001.0,"Comedy,Romance",8.2,849886,"Guillaume Laurant, Jean-Pierre Jeunet"
+Finding Nemo,2003.0,"Adventure,Animation,Comedy",8.2,1230755,"Andrew Stanton, Bob Peterson, David Reynolds"
+Kill Bill: Vol. 1,2003.0,"Action,Crime,Thriller",8.2,1331644,"Quentin Tarantino, Uma Thurman"
+Dersu Uzala,1975.0,"Adventure,Biography,Drama",8.2,37077,"Akira Kurosawa, Yuriy Nagibin, Vladimir Arsenev"
+A Beautiful Mind,2001.0,"Biography,Drama,Mystery",8.2,1067962,"Akiva Goldsman, Sylvia Nasar"
+Rangasthalam,2018.0,"Action,Drama",8.2,31808,"Sukumar, Srinivas Rongali, Buchi Babu Sana, Kasi Vishal, Thota Srinivas, Palnati Surya Pratap, Vijaya Prasad Bandreddi"
+Khosla Ka Ghosla!,2006.0,"Comedy,Crime,Drama",8.2,27633,"Jaideep Sahni, Rajan Agarwal"
+Pan's Labyrinth,2006.0,"Drama,Fantasy,War",8.2,756735,Guillermo del Toro
+They Shall Not Grow Old,2018.0,"Documentary,History,War",8.2,41348,Peter Jackson
+Project Hail Mary,2026.0,"Adventure,Comedy,Sci-Fi",8.2,595205,"Drew Goddard, Andy Weir"
+There Will Be Blood,2007.0,Drama,8.2,723345,"Paul Thomas Anderson, Upton Sinclair"
+Andhadhun,2018.0,"Comedy,Crime,Mystery",8.2,119063,"Arijit Biswas, Yogesh Chandekar, Sriram Raghavan, Hemanth M. Rao, Pooja Ladha Surti, Olivier Treiner"
+No Country for Old Men,2007.0,"Crime,Drama,Thriller",8.2,1221401,"Joel Coen, Ethan Coen, Cormac McCarthy"
+No Other Land,2024.0,Documentary,8.2,57065,"Basel Adra, Rachel Szor, Hamdan Ballal, Yuval Abraham"
+13th,2016.0,"Crime,Documentary,History",8.2,39743,"Spencer Averick, Ava DuVernay"
+Searching for Sugar Man,2012.0,"Biography,Documentary,Music",8.2,77136,"Malik Bendjelloul, Stephen 'Sugar' Segerman, Craig Bartholomew Strydom"
+Top Gun: Maverick,2022.0,"Action,Drama",8.2,912317,"Ehren Kruger, Eric Warren Singer, Christopher McQuarrie, Peter Craig, Justin Marks, Jim Cash, Jack Epps Jr."
+North by Northwest,1959.0,"Action,Adventure,Drama",8.2,373178,Ernest Lehman
+Taxi Driver,1976.0,"Crime,Drama",8.2,1047752,Paul Schrader
+Some Like It Hot,1959.0,"Comedy,Music,Romance",8.2,308565,"Billy Wilder, I.A.L. Diamond, Robert Thoeren, Michael Logan"
+The Sixth Sense,1999.0,"Drama,Mystery,Thriller",8.2,1175928,M. Night Shyamalan
+Vertigo,1958.0,"Mystery,Romance,Thriller",8.2,464745,"Alec Coppel, Samuel A. Taylor, Pierre Boileau, Thomas Narcejac, Maxwell Anderson"
+Prisoners,2013.0,"Crime,Drama,Mystery",8.2,967006,Aaron Guzikowski
+Baahubali 2: The Conclusion,2017.0,"Action,Drama",8.2,137632,"Vijayendra Prasad, S.S. Rajamouli, C.H. Vijay Kumar, Ajay Kumar, Madhan Karky, Manoj Muntashir, Mankombu Gopalakrishnan"
+Yojimbo,1961.0,"Action,Drama,Thriller",8.2,145379,"Akira Kurosawa, Ryûzô Kikushima"
+Oppenheimer,2023.0,"Biography,Drama,History",8.2,1110437,"Christopher Nolan, Kai Bird, Martin Sherwin"
+Rocco and His Brothers,1960.0,"Crime,Drama,Sport",8.2,26290,"Luchino Visconti, Suso Cecchi D'Amico, Vasco Pratolini, Pasquale Festa Campanile, Massimo Franciosa, Enrico Medioli, Giovanni Testori"
+A Silent Voice: The Movie,2016.0,"Animation,Drama",8.2,152870,"Yoshitoki Ôima, Reiko Yoshida"
+The Great Escape,1963.0,"Adventure,Drama,Thriller",8.2,281413,"Paul Brickhill, James Clavell, W.R. Burnett"
+Klaus,2019.0,"Adventure,Animation,Comedy",8.2,244596,"Sergio Pablos, Jim Mahoney, Zach Lewis"
+Dhurandhar: The Revenge,2026.0,"Action,Crime,Thriller",8.2,74641,Aditya Dhar
+Gangs of Wasseypur,2012.0,"Action,Comedy,Crime",8.2,116256,"Akhilesh Jaiswal, Anurag Kashyap, Sachin K. Ladia, Zeishan Quadri"
+Howl's Moving Castle,2004.0,"Adventure,Animation,Family",8.2,525221,"Diana Wynne Jones, Hayao Miyazaki"
+The Truman Show,1998.0,"Comedy,Drama",8.2,1417540,Andrew Niccol
+Paan Singh Tomar,2012.0,"Action,Biography,Crime",8.2,40691,"Sanjay Chauhan, Tigmanshu Dhulia"
+Zindagi Na Milegi Dobara,2011.0,"Adventure,Comedy,Drama",8.2,98161,"Farhan Akhtar, Reema Kagti, Zoya Akhtar, Shubham Ghude"
+Die Hard,1988.0,"Action,Thriller",8.2,1044076,"Roderick Thorp, Jeb Stuart, Steven E. de Souza"
+Children of Heaven,1997.0,"Drama,Family,Sport",8.2,91846,Majid Majidi
+Swades,2004.0,"Drama,Musical",8.2,107731,"M.G. Sathya, Ashutosh Gowariker, Sameer Sharma, Lalit Marathe, Amin Hajee, Charlotte Whitby-Coles, Yashodeep Nigudkar, Ayan Mukerji, K.P. Saxena"
+Ran,1985.0,"Action,Drama,War",8.2,155834,"Akira Kurosawa, Hideo Oguni, Masato Ide, William Shakespeare"
+Downfall,2004.0,"Biography,Drama,History",8.2,405489,"Bernd Eichinger, Joachim Fest, Traudl Junge, Melissa Müller"
+Close-Up,1990.0,"Biography,Crime,Drama",8.2,27688,Abbas Kiarostami
+Drishyam 2,2022.0,"Crime,Drama,Mystery",8.2,54532,"Jeethu Joseph, Aamil Keeyan Khan, Abhishek Pathak"
+Munna Bhai M.B.B.S.,2003.0,"Comedy,Drama",8.2,100199,"Vidhu Vinod Chopra, Rajkumar Hirani, Lajan Joseph, Abbas Tyrewala"
+Inside Job,2010.0,"Crime,Documentary",8.2,83120,"Charles Ferguson, Chad Beck, Adam Bolt"
+For a Few Dollars More,1965.0,"Drama,Western",8.2,305367,"Sergio Leone, Fulvio Morsella, Luciano Vincenzoni, Sergio Donati, Fernando Di Leo"
+Batman Begins,2005.0,Crime,8.2,1753029,"Bob Kane, David S. Goyer, Christopher Nolan"
+L.A. Confidential,1997.0,"Crime,Drama,Mystery",8.2,666377,"James Ellroy, Brian Helgeland, Curtis Hanson"
