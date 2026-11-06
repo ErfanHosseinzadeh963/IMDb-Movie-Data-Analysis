@@ -3,8 +3,9 @@ from pathlib import Path
 import pandas as pd
 
 
-# Project paths
-DATA_DIR = Path("data")
+# Project settings
+PROJECT_DIR = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_DIR / "data"
 
 BASICS_FILE = DATA_DIR / "title.basics.tsv.gz"
 RATINGS_FILE = DATA_DIR / "title.ratings.tsv.gz"
@@ -15,9 +16,28 @@ OUTPUT_FILE = DATA_DIR / "imdb_top250.csv"
 
 MIN_VOTES = 25000
 TOP_MOVIES_COUNT = 250
+CHUNK_SIZE = 100000
 
 
-def load_data():
+def check_files():
+    """Check whether all required IMDb datasets exist."""
+
+    required_files = [
+        BASICS_FILE,
+        RATINGS_FILE,
+        CREW_FILE,
+        NAMES_FILE
+    ]
+
+    for file in required_files:
+        if not file.exists():
+            raise FileNotFoundError(
+                f"Required dataset not found: {file}\n"
+                "Please download the IMDb datasets into the data folder."
+            )
+
+
+def load_movie_data():
     """Load movie information and ratings."""
 
     basics = pd.read_csv(
@@ -37,40 +57,64 @@ def load_data():
     ratings = pd.read_csv(
         RATINGS_FILE,
         sep="\t",
-        na_values="\\N"
+        na_values="\\N",
+        usecols=[
+            "tconst",
+            "averageRating",
+            "numVotes"
+        ]
     )
 
     return basics, ratings
 
 
 def get_top_movies(basics, ratings):
-    """Select the top 250 movies based on ratings and votes."""
+    """Select the 250 highest-rated movies with enough votes."""
 
-    movies = basics[basics["titleType"] == "movie"]
+    movies = basics[
+        basics["titleType"] == "movie"
+    ]
 
     movies = movies.merge(
         ratings,
         on="tconst"
     )
 
-    movies = movies[movies["numVotes"] >= MIN_VOTES]
+    movies = movies[
+        movies["numVotes"] >= MIN_VOTES
+    ]
 
     movies = movies.sort_values(
-        by="averageRating",
-        ascending=False
+        by=["averageRating", "numVotes"],
+        ascending=[False, False]
     )
 
     return movies.head(TOP_MOVIES_COUNT).copy()
 
 
 def load_writer_names(top_movies):
-    """Find writer names for selected movies."""
+    """Find writer names for the selected movies."""
 
-    crew = pd.read_csv(
+    movie_ids = set(top_movies["tconst"])
+
+    writer_data = []
+
+    for chunk in pd.read_csv(
         CREW_FILE,
         sep="\t",
         na_values="\\N",
-        usecols=["tconst", "writers"]
+        usecols=["tconst", "writers"],
+        chunksize=CHUNK_SIZE
+    ):
+        selected = chunk[
+            chunk["tconst"].isin(movie_ids)
+        ]
+
+        writer_data.append(selected)
+
+    crew = pd.concat(
+        writer_data,
+        ignore_index=True
     )
 
     top_movies = top_movies.merge(
@@ -84,18 +128,25 @@ def load_writer_names(top_movies):
     for writers in top_movies["writers"].dropna():
         writer_ids.update(writers.split(","))
 
-    names = pd.read_csv(
+    name_map = {}
+
+    for chunk in pd.read_csv(
         NAMES_FILE,
         sep="\t",
         na_values="\\N",
-        usecols=["nconst", "primaryName"]
-    )
+        usecols=["nconst", "primaryName"],
+        chunksize=CHUNK_SIZE
+    ):
+        selected = chunk[
+            chunk["nconst"].isin(writer_ids)
+        ]
 
-    names = names[names["nconst"].isin(writer_ids)]
-
-    name_map = dict(
-        zip(names["nconst"], names["primaryName"])
-    )
+        name_map.update(
+            dict(zip(
+                selected["nconst"],
+                selected["primaryName"]
+            ))
+        )
 
     def get_names(writer_ids):
         if pd.isna(writer_ids):
@@ -106,7 +157,9 @@ def load_writer_names(top_movies):
             for writer_id in writer_ids.split(",")
         )
 
-    top_movies["Writers"] = top_movies["writers"].apply(get_names)
+    top_movies["Writers"] = top_movies["writers"].apply(
+        get_names
+    )
 
     return top_movies
 
@@ -125,6 +178,12 @@ def prepare_output(top_movies):
         ]
     ].copy()
 
+    result.insert(
+        0,
+        "Rank",
+        range(1, len(result) + 1)
+    )
+
     result = result.rename(columns={
         "primaryTitle": "Movie Name",
         "startYear": "Year",
@@ -137,28 +196,47 @@ def prepare_output(top_movies):
 
 
 def save_results(data):
-    """Save the final dataset as a CSV file."""
+    """Save the final results as a CSV file."""
 
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    DATA_DIR.mkdir(
+        parents=True,
+        exist_ok=True
+    )
 
     data.to_csv(
         OUTPUT_FILE,
         index=False
     )
 
-    print(f"Data saved successfully: {OUTPUT_FILE}")
+    print(f"Successfully saved {len(data)} movies.")
+    print(f"Output file: {OUTPUT_FILE}")
 
 
 def main():
-    """Run the IMDb scraping project."""
+    """Run the IMDb movie data project."""
 
-    basics, ratings = load_data()
+    check_files()
 
-    top_movies = get_top_movies(basics, ratings)
+    print("Loading IMDb datasets...")
 
-    top_movies = load_writer_names(top_movies)
+    basics, ratings = load_movie_data()
 
-    result = prepare_output(top_movies)
+    print("Selecting top-rated movies...")
+
+    top_movies = get_top_movies(
+        basics,
+        ratings
+    )
+
+    print("Loading writer information...")
+
+    top_movies = load_writer_names(
+        top_movies
+    )
+
+    result = prepare_output(
+        top_movies
+    )
 
     save_results(result)
 
