@@ -1,4 +1,4 @@
-# 🎬 IMDb Movie Data Analysis
+# IMDb Movie Data Analysis
 
 ### Discover the World's Highest-Rated Movies Through Data
 
@@ -72,7 +72,7 @@ IMDb-Movie-Data-Analysis/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -168,4 +168,4 @@ GitHub: [@ErfanHosseinzadeh963](https://github.com/ErfanHosseinzadeh963)
 
 ---
 
-### ⭐ If you find this project interesting, feel free to explore the repository!
+### If you find this project interesting, feel free to explore the repository!
